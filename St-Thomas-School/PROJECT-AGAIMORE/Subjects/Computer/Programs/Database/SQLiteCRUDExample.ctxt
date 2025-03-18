@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=SQLiteCRUDExample
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=connection
+comment2.target=void\ createTable(java.sql.Connection)
+comment3.params=connection\ scanner
+comment3.target=void\ insertData(java.sql.Connection,\ java.util.Scanner)
+comment4.params=connection
+comment4.target=void\ selectData(java.sql.Connection)
+comment5.params=connection\ scanner
+comment5.target=void\ updateData(java.sql.Connection,\ java.util.Scanner)
+comment6.params=connection\ scanner
+comment6.target=void\ deleteData(java.sql.Connection,\ java.util.Scanner)
+numComments=7

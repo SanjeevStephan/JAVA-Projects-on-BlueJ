@@ -14,7 +14,7 @@ public class Calculator
     /**
      * Constructor for objects of class Calculator
      */
-    public static void main(String args[])
+    public Calculator()
     {
         // initialise instance variables
         Scanner scanner = new Scanner(System.in);
