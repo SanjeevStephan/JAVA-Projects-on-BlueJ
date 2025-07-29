@@ -1,4 +1,4 @@
-/*                              CalculateGST.java
+/**                              CalculateGST.java
     Program No : 04
     Program Title : CalculateGST
     Program Description : A Program to Calculate Goods and Services Tax (GST)

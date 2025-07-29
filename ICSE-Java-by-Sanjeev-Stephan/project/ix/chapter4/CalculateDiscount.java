@@ -1,4 +1,4 @@
-/*                              DisplayGST.java
+/**                              DisplayGST.java
     Program No : 05
     Date :
     Program Title : CalculateDiscount

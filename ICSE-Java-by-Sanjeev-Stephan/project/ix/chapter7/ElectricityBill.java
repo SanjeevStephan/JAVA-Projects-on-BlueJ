@@ -1,4 +1,4 @@
-/* ElectricityBill.java
+/**                                                             ElectricityBill.java
     Program No : 15
     Date :
     Program Title : ElectricityBill

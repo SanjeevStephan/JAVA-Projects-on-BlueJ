@@ -1,4 +1,4 @@
-/*                              DisplayGST.java
+/**                              DisplayGST.java
     Program No : 02
     Program Title : CalculateSum
     Program Description : A Program in Java to find the sum of two numbers.

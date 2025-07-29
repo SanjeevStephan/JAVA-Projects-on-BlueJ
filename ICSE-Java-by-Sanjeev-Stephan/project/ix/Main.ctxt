@@ -2,4 +2,5 @@
 comment0.target=Main
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ \ \ \ \ static\ void\ displayOnScreen(String\ msg)\r\n\ \ \ \ \ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ //\ programNo\ \=\ programNo\ +\ 1;\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ String\ txt\ \=\ "-------------[\ "\ +\ programNo\ +\ "."\ +\ msg\ +\ "\ ]------------";\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ String\ txt\ \=\ "-------------[\ "\ +\ msg\ +\ "\ ]------------";\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ System.out.println(txt);\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \r\n
 numComments=2

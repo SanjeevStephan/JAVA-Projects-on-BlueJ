@@ -1,19 +1,21 @@
+package project.ix;
+
 
 /**
- * Write a description of class hello here.
+ * Write a description of class FirstTerminalProjects here.
  *
  * @author (your name)
  * @version (a version number or a date)
  */
-public class hello
+public class FirstTerminalProjects
 {
     // instance variables - replace the example below with your own
     private int x;
 
     /**
-     * Constructor for objects of class hello
+     * Constructor for objects of class FirstTerminalProjects
      */
-    public hello()
+    public FirstTerminalProjects()
     {
         // initialise instance variables
         x = 0;

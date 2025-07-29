@@ -1,4 +1,4 @@
-/*                              AreaOfSquare.java
+/**                              AreaOfSquare.java
     Program No : 03
     Date :
     Program Title : AreaOfSquare
