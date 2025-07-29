@@ -1,6 +1,5 @@
 package spiralNotes.input;
 
-
 /**
  * Write a description of class ReadInput here.
  *
@@ -17,7 +16,7 @@ public class ReadInput
         // Ask user to enter their username 
         System.out.println("Enter Username : " );  
         String userName = input.nextLine();  // Read userinput
-        
+        // Display the username on the screen
         System.out.println("Username :  " + userName);
         
         

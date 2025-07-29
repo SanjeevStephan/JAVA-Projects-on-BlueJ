@@ -2,7 +2,7 @@ package spiralNotes.java.basics;
 
 import java.util.Scanner;
 
-public class JavaSwitchCase {
+public class JavaAdvancedSwitchCase {
 
     static String[] weekDays = {"Sunday","Monday", "Tuesday", "Wednesday","Thursday","Friday", "Saturday" };
 

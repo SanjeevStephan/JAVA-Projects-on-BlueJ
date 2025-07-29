@@ -1,6 +1,5 @@
 package spiralNotes.input;
 
-
 /**
  * Write a description of class InputStudentData here.
  *
@@ -25,8 +24,8 @@ public class InputStudentData
         System.out.println("Enter Student Height (in ft) : ");
         double studentHeight = input.nextDouble();
         
-        System.out.println("Student Name : " + studentName);
+        System.out.println("Student Name : "    + studentName);
         System.out.println("Student Roll No : " + studentRollNum);
-        System.out.println("Student Height : " + studentHeight);
+        System.out.println("Student Height : "  + studentHeight);
     }
 }

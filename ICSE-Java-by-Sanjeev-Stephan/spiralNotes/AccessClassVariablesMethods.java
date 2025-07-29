@@ -19,7 +19,6 @@ class Car
 }
 
 
-
 public class AccessClassVariablesMethods
 {
     public static void main(String[] args)
