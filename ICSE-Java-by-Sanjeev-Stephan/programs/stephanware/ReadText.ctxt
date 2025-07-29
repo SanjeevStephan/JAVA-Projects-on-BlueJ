@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ReadText
+comment1.params=path_to_text_file
+comment1.target=ReadText(java.lang.String)
+numComments=2

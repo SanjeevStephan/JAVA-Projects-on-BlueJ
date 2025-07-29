@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Area_and_Perimeter_of_Circle
+comment0.text=\r\n\ \ \ \ Program\ \:\ To\ Find\ the\ area\ of\ perimeter\ of\ a\ circle\ of\ radius\ 3.5\r\n\ \ \ \ Page\ No\ \:\ 50\r\n
+comment1.params=
+comment1.target=void\ Circle()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

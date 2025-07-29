@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=BioData
+comment0.text=\r\n\ Question\ No\ \:\ 19\r\n\ Program\ \:\ Design\ a\ program\ in\ Java\ to\ display\ the\ following\ information\ on\ the\ output\ screen\ \r\n\ \ \ \ \ \ \ \ \ \ \ Name\ \ \ \:\ _____________\r\n\ \ \ \ \ \ \ \ \ \ \ Class\ \ \:\ _____________\r\n\ \ \ \ \ \ \ \ \ \ \ Rollno\ \:\ _____________\r\n\ \ \ \ \ \ \ \ \ \ \ Subject\:\ _____________\r\n\ \ \ \ \ \ \ \ \ \ \ School\ \:\ _____________\r\n\r\n\ @author\ (Sanjeev\ Stephan)\r\n\ @version\ (26-June-2025)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

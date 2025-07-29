@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Digits
+comment0.text=Chapter\ \:\ 05\ (Input\ in\ Java)\r\n\ Page\ No\ \:\ 114\r\n\ Program\ No\ \:\ 4\r\n\ Program\ Title\ \:\ Write\ a\ Program\ to\ input\ a\ three\ digit\ number\ and\ display\ all\ the\ digits\ by\ using\ arithmetical\ operators\r\n\ @author\ (Sanjeev\ Stephan\ Murmu)\r\n\ @version\ (19th-July-2025)\r\n
+comment1.params=
+comment1.target=void\ display()
+comment2.params=num
+comment2.target=void\ main(int)
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EligibleVoter
+comment0.text=\r\n\ Real-Life\ Example\ Code-\#7\r\n\ File\ Name\ \:\ CheckAge.java\r\n\ Class\ Name\ \:\ CheckAge\r\n\ Description\ \:\ Here's\ a\ real-life\ based\ example\ to\ stores\ a\ person\ name\ and\ prints\ it\ \:\r\n
+comment1.params=age
+comment1.target=void\ checkAge(int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

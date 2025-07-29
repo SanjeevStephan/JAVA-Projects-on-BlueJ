@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Sum
+comment0.text=\r\n\ Page\ No\ \ \ \ \ \ \ \:\ 99\r\n\ Program\ S.No\ \ \:\ 02\r\n\ Program\ Title\ \:\ Write\ a\ program\ in\ Java\ t\ ofind\ the\ Sum\ of\ two\ numbers.\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Display\ the\ output.\r\n\r\n\ @author\ (Sanjeev\ Stephan\ Murmu)\r\n\ @version\ (26-June-2025)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

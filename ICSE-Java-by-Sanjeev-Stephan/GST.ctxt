@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=GST
+comment0.text=\r\n\ Page\ No\ \:\ 99\r\n\ Program\ No\ \:\ 4\r\n\ Program\ Title\ \:\ A\ shopkeeper\ sells\ an\ article\ for\ Rs\ 10,000.\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ If\ the\ rate\ of\ tax\ under\ GST\ is\ 10%,\ calculate\ and\ display\ the\ tax\ and\ the\ amount\ paid\ by\ the\ Customer.\ \r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

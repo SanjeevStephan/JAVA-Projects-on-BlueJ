@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Discount
+comment0.text=\r\n\ Page\ No\ \:\ 100\r\n\ Program\ No\ \:\ 5\r\n\ Program\ Title\ \:\ A\ dealer\ allows\ his\ customer\ two\ successive\ discounts\ of\ 20%\ and\ 10%.\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ If\ the\ article\ costs\ Rs\ 72,000,\ calculate\ and\ display\ the\ selling\ price\ and\ the\ total\ discounts\ given\ by\ the\ dealer.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

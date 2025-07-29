@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ElectricityBillOutdated
+comment1.params=txt
+comment1.target=void\ askUserFor(java.lang.String)
+comment2.params=title\ data
+comment2.target=void\ showOnScreen(java.lang.String,\ java.lang.String)
+comment3.params=title\ data
+comment3.target=void\ showOnScreen(java.lang.String,\ int)
+comment4.params=title\ data
+comment4.target=void\ showOnScreen(java.lang.String,\ double)
+comment5.params=
+comment5.target=void\ calculateBill()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

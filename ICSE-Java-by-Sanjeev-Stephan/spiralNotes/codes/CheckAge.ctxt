@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CheckAge
+comment1.params=age
+comment1.target=void\ passIntToCheckAge(int)
+numComments=2

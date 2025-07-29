@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StudentInfo
+comment0.text=\r\n\ Question\ No\ \:\ 19\r\n\ Program\ \:\ Design\ a\ program\ in\ Java\ to\ display\ the\ following\ information\ on\ the\ output\ screen\ \r\n\ \ \ \ \ \ \ \ \ \ \ Name\ \ \ \ \ \ \ \ \ \ \ \ \:\ _____________\r\n\ \ \ \ \ \ \ \ \ \ \ Father's\ Name\ \ \ \:\ _____________\r\n\ \ \ \ \ \ \ \ \ \ \ Date\ of\ Birth\ \ \ \:\ _____________\r\n\ \ \ \ \ \ \ \ \ \ \ Blood\ Group\ \ \ \ \ \:\ _____________\r\n\ \ \ \ \ \ \ \ \ \ \ Aadhaar\ Card\ No\ \:\ _____________\r\n\ \ \ \ \ \ \ \ \ \ \ State\ \ \ \ \ \ \ \ \ \ \ \:\ _____________\r\n\r\n\ @author\ (Sanjeev\ Stephan)\r\n\ @version\ (26-June-2025)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

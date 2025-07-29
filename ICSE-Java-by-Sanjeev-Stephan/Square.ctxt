@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Square
+comment0.text=\r\n\ Chapter\ \:\ 4\ |\ Operators\ In\ Java\r\n\ Page\ No\ \:\ 99\r\n\ Program\ No\ \:\ 03\r\n\ Program\ Title\ \:\ Write\ a\ program\ in\ Java\ to\ find\ the\ area,\ perimeter\ and\ the\ diagonal\ of\ a\ square.\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Display\ the\ output\ of\ the\ program\ by\ taking\ side\ of\ a\ square\ as\ 25.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

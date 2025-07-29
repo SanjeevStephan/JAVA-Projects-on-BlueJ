@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Triangle
+comment0.text=\r\n\ Page\ No\ \:\ 112\r\n\ Program\ No\ \:\ 1\r\n\ Program\ Title\ \:\ Write\ a\ program\ in\ Java\ to\ find\ and\ display\ the\ area\ and\ perimeter\ of\ a\ right-angled\ triangle\ by\ using\ function\ argument.\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Take\ perpendicular\ and\ base\ as\ inputs\ from\ the\ console.\r\n\ @author\ (Sanjeev\ Stephan\ Murmu)\r\n\ @version\ (27th-June-2025)\r\n
+comment1.params=perimeter\ base
+comment1.target=void\ main(int,\ int)
+numComments=2

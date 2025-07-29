@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CalculateGST
+comment1.params=originalPrice
+comment1.target=void\ calculateGST(int)
+comment2.params=
+comment2.target=void\ displayGST()
+numComments=3

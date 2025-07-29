@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Average
+comment0.text=Chapter\ \:\ 05\ (Input\ in\ Java)\r\n\ Page\ No\ \:\ 112\r\n\ Program\ No\ \:\ 1\r\n\ Program\ Title\ \:\ Write\ a\ Program\ in\ Java\ to\ find\ and\ display\ the\ sum\ and\ average\ of\ three\ numbers\ by\ using\ function\ argument\r\n\ @author\ (Sanjeev\ Stephan\ Murmu)\r\n\ @version\ (27th-June-2025)\r\n
+comment1.params=a\ b\ c
+comment1.target=void\ main(int,\ int,\ int)
+numComments=2

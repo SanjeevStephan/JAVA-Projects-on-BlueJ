@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RectangleMenu
+comment1.params=info
+comment1.target=int\ askUserFor(java.lang.String)
+comment2.params=
+comment2.target=void\ solveRectangle()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

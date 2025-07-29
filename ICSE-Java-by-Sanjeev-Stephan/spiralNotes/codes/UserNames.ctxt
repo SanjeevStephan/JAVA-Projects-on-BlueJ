@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=UserNames
+comment1.params=
+comment1.target=java.lang.String\ askUsername()
+comment2.params=
+comment2.target=int\ askPassword()
+comment3.params=username\ password
+comment3.target=void\ verifyPassword(java.lang.String,\ int)
+comment4.params=username
+comment4.target=void\ verifyUsername(java.lang.String)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
