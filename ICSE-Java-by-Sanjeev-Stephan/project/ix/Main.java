@@ -33,7 +33,7 @@ public class Main
             CalculateSum.inputAndDisplaySum();     //calling method() from class CalculateSum
     
             System.out.println("---[ 03. Area of Square ]---");
-            AreaOfSquare.displaySquareArea();   //calling method() from class AreaOfSquare
+            AreaOfSquare.calculateSquare(25);   //calling method() from class AreaOfSquare
     
             System.out.println("---[ 04. Goods & Service Tax ]---");
             CalculateGST.calculateGST(10000);  //calling method() from class AreaOfSquare

@@ -18,8 +18,11 @@ import project.ix.chapter6.InputAndFindSmallestNum;
 import project.ix.chapter6.FindCube;
 import project.ix.chapter6.FindValueOfExpression;
 import project.ix.chapter6.FindVelocity;
-
-import project.ix.chapter7.*;
+// Java Classes from the package : project.ix.chapter7
+import project.ix.chapter7.SecondSmallestNum;
+import project.ix.chapter7.GradeTheStudent;
+import project.ix.chapter7.RectangleMenu;
+import project.ix.chapter7.ElectricityBill;
 
 public class Main2 
 {

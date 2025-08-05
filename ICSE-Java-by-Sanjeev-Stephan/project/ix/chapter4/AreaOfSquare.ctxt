@@ -2,6 +2,4 @@
 comment0.target=AreaOfSquare
 comment1.params=side
 comment1.target=void\ calculateSquare(int)
-comment2.params=
-comment2.target=void\ displaySquareArea()
-numComments=3
+numComments=2

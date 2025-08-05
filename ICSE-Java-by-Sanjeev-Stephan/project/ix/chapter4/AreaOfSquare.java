@@ -10,7 +10,7 @@ package project.ix.chapter4;
 public class AreaOfSquare {
 
     // static method can only be accessed from within the same class
-    static void calculateSquare(int side) {
+   public static void calculateSquare(int side) {
         // declaring the required variables for the program
         int area, perimeter;
         double diagonal;
@@ -23,7 +23,7 @@ public class AreaOfSquare {
         System.out.println("The Diagonal of Square : " + diagonal);
     }
     // public static method() can be accessed from outside the class
-    public static void displaySquareArea(){
-        calculateSquare(25);
-    }
+   // public static void displaySquareArea(){
+   //     calculateSquare(25);
+  //  }
 }
